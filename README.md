@@ -1,6 +1,6 @@
 # Hi, I'm Rafael Muller
 
-**Senior Cloud Engineer @ Airbnb** — Architecting platform infrastructure for **8M+ listings** worldwide.
+**Staff Cloud Engineer @ Airbnb** — Architecting platform infrastructure for **8M+ listings** worldwide.
 Focused on Kubernetes, Service Mesh, and large-scale reliability.
 
 18 years in tech · 7+ years deep in cloud & platform engineering · based in Brazil, working globally.
