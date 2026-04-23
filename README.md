@@ -30,6 +30,16 @@ Focused on Kubernetes, Service Mesh, and large-scale reliability.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
+## Writing & Teaching
+
+I publish technical articles on [Medium](https://medium.com/@rafael_muller), each paired with a reproducible lab repo when applicable.
+
+- **[Transform Your Infrastructure with Terraform](https://medium.com/@rafael_muller/transform-your-infrastructure-with-terraform-130f3334c48c)**
+- **[Creating Your First Instance with Terraform](https://medium.com/@rafael_muller/creating-your-first-instance-with-terraform-20334f3023ef)** — lab: [`terraform-basics`](https://github.com/rtmuller/terraform-basics)
+- **[Managing Environments with Terraform Workspaces CLI](https://blog.devops.dev/managing-environments-with-terraform-workspaces-cli-d5f114f94d29)** — lab: [`terraform-workspaces`](https://github.com/rtmuller/terraform-workspaces)
+- **[Terraform — Using Multiple Providers](https://medium.com/@rafael_muller/terraform-using-multiple-providers-c5310296b65a)** — lab: [`terraform-multi-providers`](https://github.com/rtmuller/terraform-multi-providers)
+- **[Secure Secret Management in GCP: A Comprehensive Approach](https://medium.com/@rafael_muller/secure-secret-management-in-gcp-a-comprehensive-approach-ed973413f641)**
+
 ## Certifications
 
 - **CKA** — Certified Kubernetes Administrator · *The Linux Foundation*
